@@ -1,0 +1,15 @@
+{
+  "name": "Нумерация токенов",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Номера на токенах, которые видит только мастер: мелкие, полупрозрачные, в углу токена.",
+  "icon": "/icon.svg",
+  "action": {
+    "title": "Нумерация токенов",
+    "icon": "/icon.svg",
+    "popover": "/popover.html",
+    "width": 300,
+    "height": 560
+  },
+  "background_url": "/background.html"
+}
